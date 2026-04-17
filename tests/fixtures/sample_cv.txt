@@ -1,0 +1,39 @@
+Jane Doe
+jane.doe@email.com | +44 7700 900123 | linkedin.com/in/janedoe
+
+Summary
+Results-driven software engineer with 7 years of experience designing and delivering scalable backend systems. Proven track record of leading cross-functional teams, improving system reliability, and shipping high-quality Python and cloud-native solutions. Passionate about clean architecture, automated testing, and continuous delivery.
+
+Skills
+Python, Java, SQL, PostgreSQL, MySQL, AWS, Docker, Kubernetes, Terraform, CI/CD, Jenkins, GitHub Actions, REST APIs, Microservices, Agile, Scrum, Git, Linux, Redis, Elasticsearch
+
+Work Experience
+
+Senior Software Engineer
+Acme Technologies Ltd, London, UK
+03/2021 – Present
+- Designed and implemented a microservices-based order processing platform handling 50,000 transactions per day using Python and FastAPI.
+- Led migration of monolithic application to AWS ECS, reducing infrastructure costs by 35% and improving deployment frequency from monthly to daily.
+- Introduced automated integration testing with pytest, increasing code coverage from 42% to 87%.
+- Mentored a team of 4 junior engineers, conducting weekly code reviews and pair programming sessions.
+- Collaborated with product managers and stakeholders to define technical requirements and delivery roadmaps.
+
+Software Engineer
+Brightwave Solutions, Manchester, UK
+06/2018 – 02/2021
+- Built and maintained RESTful APIs consumed by web and mobile clients, serving over 200,000 active users.
+- Implemented a real-time notification service using Redis Pub/Sub and WebSockets, reducing notification latency by 60%.
+- Optimised slow PostgreSQL queries, cutting average API response time from 800 ms to 120 ms.
+- Contributed to the adoption of Docker and Kubernetes for local development and staging environments.
+- Participated in on-call rotation, resolving production incidents and writing post-mortems.
+
+Education
+
+Bachelor of Science in Computer Science
+University of Manchester, Manchester, UK
+09/2014 – 06/2018
+First Class Honours
+
+Certifications
+AWS Certified Solutions Architect – Associate, Amazon Web Services, 2022
+Certified Kubernetes Administrator (CKA), Cloud Native Computing Foundation, 2023

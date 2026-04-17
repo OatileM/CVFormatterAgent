@@ -1,0 +1,24 @@
+# Environment variables — never commit credentials
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# Output files
+output/
+
+# Pytest
+.pytest_cache/
+.hypothesis/
+
+# Kiro Files
+.kiro/
+
+# VS Code File
+.vscode

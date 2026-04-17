@@ -1,0 +1,24 @@
+HOW TO GENERATE sample_cv.pdf
+==============================
+
+The sample_cv.pdf fixture is a PDF version of sample_cv.txt / sample_cv.docx.
+
+Option 1 — LibreOffice (recommended, no extra Python deps):
+    libreoffice --headless --convert-to pdf tests/fixtures/sample_cv.docx --outdir tests/fixtures/
+
+Option 2 — reportlab (Python):
+    pip install reportlab
+    Then run the snippet below:
+
+    from reportlab.lib.pagesizes import A4
+    from reportlab.platypus import SimpleDocTemplate, Paragraph
+    from reportlab.lib.styles import getSampleStyleSheet
+
+    doc = SimpleDocTemplate("tests/fixtures/sample_cv.pdf", pagesize=A4)
+    styles = getSampleStyleSheet()
+    content_lines = open("tests/fixtures/sample_cv.txt").read().splitlines()
+    story = [Paragraph(line or "&nbsp;", styles["Normal"]) for line in content_lines]
+    doc.build(story)
+
+The PDF content should match sample_cv.txt exactly so that parse_cv tests
+can verify round-trip fidelity across all three supported formats.

@@ -1,0 +1,2 @@
+# treat all files as text and store them with LF in the repo
+* text=auto eol=lf

@@ -1,0 +1,34 @@
+Job Title: Senior Backend Engineer – Cloud Platform
+
+About the Role
+We are looking for a Senior Backend Engineer to join our Cloud Platform team. You will design, build, and operate the distributed systems that power our SaaS product, serving millions of users globally. You will work closely with product, infrastructure, and frontend teams to deliver reliable, scalable services.
+
+Required Skills and Experience
+- Python: must have at least 5 years of professional Python development experience.
+- AWS: required — hands-on experience with core AWS services (EC2, ECS, Lambda, S3, RDS).
+- Kubernetes: essential — experience deploying and operating containerised workloads in Kubernetes clusters.
+- Docker: required — proficiency in building and managing Docker images and multi-container environments.
+- PostgreSQL: must have — strong SQL skills and experience tuning PostgreSQL databases in production.
+- Microservices: required — proven experience designing and maintaining microservices architectures.
+- REST APIs: essential — ability to design, implement, and document RESTful APIs to a high standard.
+- CI/CD: required — experience setting up and maintaining continuous integration and delivery pipelines (e.g., GitHub Actions, Jenkins, or equivalent).
+- Terraform: must have — infrastructure-as-code experience using Terraform to provision and manage cloud resources.
+
+Preferred Qualifications
+- FastAPI: nice to have — familiarity with the FastAPI framework is a bonus.
+- Redis: preferred — experience using Redis for caching or message brokering is advantageous.
+- Elasticsearch: preferred — exposure to Elasticsearch for search and log aggregation is a plus.
+- Agile / Scrum: preferred — experience working in Agile teams using Scrum or Kanban methodologies.
+
+Responsibilities
+- Design and implement scalable backend services and APIs.
+- Own the reliability and performance of platform components through monitoring, alerting, and on-call participation.
+- Collaborate with cross-functional teams to translate product requirements into technical solutions.
+- Conduct code reviews and contribute to engineering best practices.
+- Mentor junior engineers and support their professional development.
+
+What We Offer
+- Competitive salary and equity package.
+- Flexible remote-first working environment.
+- Annual learning and development budget.
+- 25 days holiday plus bank holidays.
